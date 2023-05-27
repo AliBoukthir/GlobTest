@@ -11,3 +11,8 @@ Pour exécuter le script PHP en utilisant la ligne de commande (CLI), veuillez u
 
 ```bash
 $ php script.php
+```
+
+## Question 3
+
+J’ai passé 1 heure pour implémenter cette fonction
